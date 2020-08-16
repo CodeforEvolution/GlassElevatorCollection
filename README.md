@@ -13,7 +13,7 @@
 ### What's the Glass Elevator Project?
 * Early in the development of the Haiku operating system, people of the community were already looking far ahead into the future, before Haiku was even in an alpha state.
 
-* On forums around 2006-2007 (I believe?), people proposed creative, unique, and revolutionary ideas for what the Haiku operating system could be!
+* On forums around 2002-2007 (I believe?), people proposed creative, unique, and revolutionary ideas for what the Haiku operating system could be!
 
 * From user experience to optimizations, from applications to the kernel, all sorts of ideas were proposed.
 
