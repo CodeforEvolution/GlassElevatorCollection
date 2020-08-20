@@ -1,5 +1,5 @@
 # The Haiku Glass Elevator Collection (R2 Brainstorming)
-* This will soon become the (temporary) home of misplaced information, brainstorming, and discussions for Haiku's Glass Elevator project.
+* This will soon become the (temporary) home of misplaced information, brainstorming, and discussions for Haiku's Glass Elevator project. None of the files here are my own, this is a collection after all.
 
 
 ### What's Haiku?
