@@ -1,0 +1,294 @@
+Index:
+
+Starting: Sat Jan 14 19:25:29 BRST 2006
+Ending: Thu Jan 19 07:37:36 BRST 2006
+Messages: 12
+
+    [ge-talk] Server problems.   Bruno G. Albuquerque
+    [ge-talk] Installer - App Categories   Alexander G. M. Smith
+        [ge-talk] Installer - App Categories   Naganithin Pramod Vemuri
+            [ge-talk] Installer - App Categories   Scott MacMaster
+                [ge-talk] Installer - App Categories   Mikael Jansson (mailing lists)
+                [ge-talk] Installer - App Categories   Waldemar Kornewald
+                [ge-talk] Installer - App Categories   Nathan Whitehorn
+                [ge-talk] Installer - App Categories   Waldemar Kornewald
+                [ge-talk] Installer - App Categories   Nathan Whitehorn
+                [ge-talk] Installer - App Categories   Waldemar Kornewald
+                [ge-talk] Installer - App Categories   Helmar Rudolph 
+            [ge-talk] Installer - App Categories   Naganithin Pramod Vemuri 
+
+Last message date: Thu Jan 19 07:37:36 BRST 2006
+Archived on: Thu Jan 19 07:38:40 BRST 2006 
+
+
+The List: ---------------------------------------------------------------------------------------->
+
+
+[ge-talk] Server problems.
+Bruno G. Albuquerque bga at bug-br.org.br
+Sat Jan 14 19:25:29 BRST 2006
+
+    Next message: [ge-talk] Installer - App Categories
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+Hi All.
+
+We had a serious problem with the BUG-Br server and the end result was 
+the fact that the entire server (software-wise and data-wise) has been 
+lost. I had to reinstall everything from scratch and ended up upgrading 
+the mailing list software which is not directly compatible with the 
+previous version. I am having to manually rebuild all lists and this is 
+taking a lot of time (as I can only do that on my free time).
+
+I just "recovered" the glasselevator-talk list but with som side-
+effects:
+
+1 - Archives are lost for now. I have them on backups but I need to 
+figure out a way to import the archives from the previous version of 
+the mailing list software into the new version. I won't be doing that 
+until I have all the missing lists back up.
+
+2 - If you had 2 addresses subscribed to the list and one was set to 
+"no mail", this flag has been lost. The end result is that you will 
+start receiving emails on all addresses that are subscribed. If this 
+happens to you, let me know and I will sort it up (or you can do it 
+yourself if you know how to use the Mailman web interface.
+
+That's it for now. Sorry for the inconvenience. Please spread the world 
+and let people know that the missing lists (like bedevtalk, beuser-talk 
+and others) will be back as soon as possible.
+
+-Bruno
+
+
+--
+Fortune Cookie Says:
+
+"Asked by reporters about his upcoming marriage to a forty-two-year-old
+woman, director Roman Polanski told reporters, `The way I look at it,
+she's the equivalent of three fourteen-year-olds.'"
+		-- David Letterman
+
+
+
+--
+Fortune Cookie Says:
+
+There is no such thing as fortune.  Try again.
+
+
+---------------------------------------------------------------------------------------->
+
+
+[ge-talk] Installer - App Categories
+
+ Alexander G. M. Smith agmsmith at rogers.com
+Sun Jan 15 19:21:50 BRST 2006
+
+    Previous message: [ge-talk] Server problems.
+    Next message: [ge-talk] Installer - App Categories
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+mmadia wrote on Wed, 11 Jan 2006 20:51:19 -0800 (PST):
+> > A job for hard links - allow your app to be in several places at 
+> > once. Or have a query driven menu that uses an index with app
+> > keywords (yes, the index has to allow multiple keys per file).
+> > 
+> > - Alex
+> <gentle reminder>
+> The hard links will only work when the bundles are on the same 
+> partition as /boot
+> </gentle reminder>
+
+Good point.  I was thinking of links to put the app in multiple menu
+folders (so it shows up in different menu categories) and it didn't
+occur to me that the menu folder and the app would be on different
+drives.  Removeable drives are even more tricky!
+
+- Alex
+
+
+---------------------------------------------------------------------------------------->
+
+
+[ge-talk] Installer - App Categories
+
+Scott MacMaster scott at scottmacmaster.com
+Wed Jan 18 12:32:10 BRST 2006
+
+    Previous message: [ge-talk] Installer - App Categories
+    Next message: [ge-talk] Installer - App Categories
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+As I mentioned before I like like to organize my apps into categories. 
+However, I do not want apps auto-assigned to predefined categories.  If this 
+is done I would have to spend time searching for it.  It's hard enough to 
+find newly installed apps when they create a folder using the companies name 
+and then put the app under that (I think this is done a lot more in windows 
+then in Be).  When I manually move an app into a category I know where I 
+moved it so I won't have to search.
+
+If anyone is curious these are the categories I use.
+
+Development
+Games
+Media
+Network
+Productivity
+---Development
+Startup
+System
+---Accessories
+---Administrative Tools
+---Antispyware
+---Antivirus
+---Codecs
+---Device Drivers
+---Maintenance, Tuneup, Cleanup
+Utilities
+
+Obviously, this is from windows.  I have a very similar structure in Be.  Of 
+course some apps don't clearly fit into one category so I have those copied 
+to each category they could go into.  I even have a duplicate development 
+category.
+
+My main reason for organizing my apps like this is so I don't have giant 
+menu that has over 100 items and to reduce the amount of searching I have to 
+do.  It's not really to quickly access programs.  In windows, I have all the 
+programs I use frequently or sometimes use on the quicklaunch on the 
+taskbar.  So to start any program I want is a single click.  In Be, I have 
+keyboard shortcuts setup with SpicyKeys.
+
+I couple of very basic categories could be used that would only contain apps 
+that wouldn't make sense to be in the other categories.  Probably Games, 
+Programs, and System.  However, anyone should be able to move apps to 
+whatever category they want.
+
+
+Later,
+Scott 
+
+
+
+-- 
+No virus found in this outgoing message.
+Checked by AVG Free Edition.
+Version: 7.1.375 / Virus Database: 267.14.20/233 - Release Date: 1/18/2006
+
+
+---------------------------------------------------------------------------------------->
+
+
+[ge-talk] Installer - App Categories
+
+Mikael Jansson (mailing lists) lists at mikael.jansson.be
+Wed Jan 18 13:13:02 BRST 2006
+
+    Previous message: [ge-talk] Installer - App Categories
+    Next message: [ge-talk] Installer - App Categories
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+"Scott MacMaster" <scott at scottmacmaster.com>:
+>
+> As I mentioned before I like like to organize my apps into 
+> categories. 
+> However, I do not want apps auto-assigned to predefined categories.  
+> If this 
+> is done I would have to spend time searching for it.  It's hard 
+> enough to 
+> find newly installed apps when they create a folder using the 
+> companies name 
+> and then put the app under that (I think this is done a lot more in 
+> windows 
+> then in Be).  When I manually move an app into a category I know 
+> where I 
+> moved it so I won't have to search.
+> 
+If you have only a few categories that _are_ universally valid (Games 
+is one example), you will not see this.
+
+> 
+> Development
+> Games
+> Media
+> Network
+> Productivity
+> ---Development
+> Startup
+> System
+> ---Accessories
+> ---Administrative Tools
+> ---Antispyware
+> ---Antivirus
+> ---Codecs
+> ---Device Drivers
+> ---Maintenance, Tuneup, Cleanup
+> Utilities
+>
+I personally think this is way too much. What's the difference between 
+"Antispyware"/"Antivirus" and "Maintenance, Tuneup, Cleanup"? And how 
+come "Codec" has its own folder? Shouldn't that be in the system 
+preferences, if need to be exposed at all? Also, why two Development 
+categories?
+
+I opt for /not/ doing fine-grained categories.
+ 
+-- Mikael
+
+
+---------------------------------------------------------------------------------------->
+
+
+[ge-talk] Installer - App Categories
+
+Waldemar Kornewald wkornew at gmx.net
+Wed Jan 18 14:31:49 BRST 2006
+
+    Previous message: [ge-talk] Installer - App Categories
+    Next message: [ge-talk] Installer - App Categories
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+Mikael Jansson wrote:
+>> [...]
+>> ---Codecs
+>> ---Device Drivers
+>> ---Maintenance, Tuneup, Cleanup
+>> Utilities
+>>
+> I personally think this is way too much. What's the difference between 
+> "Antispyware"/"Antivirus" and "Maintenance, Tuneup, Cleanup"? And how 
+> come "Codec" has its own folder? Shouldn't that be in the system 
+> preferences, if need to be exposed at all? Also, why two Development 
+> categories?
+> 
+> I opt for /not/ doing fine-grained categories.
+
+Agreed. I will repeat my last suggestion:
+
+Every app may be in one the following three categories:
+* Applications
+* Games
+* Preferences
+Apps that don't specify a category are not shown in the Deskbar.
+To make all installed software still accessible from an intuitive place 
+(for uninstall and inspection of installed software) the "Applications" 
+menu in Deskbar gets an entry "Show All Applications" (placed at the top 
+and separated from the other entries). This entry opens the "Software 
+Manager" which should look like an application launcher, but also allow 
+for inspecting all installed bundles and packages.
+
+If you want categories then create a folder on the desktop containing 
+subfolders with bundles or links to your applications. Right-click the 
+desktop and browse that folder to get a categorized view of your 
+applications. I'm not so sure about allowing categories within Deskbar 
+because on multi-user systems you cannot suit everyone and for 
+administrators it's easier to live with a uniform scheme on all computers.
+
+Bye,
+Waldemar
+
+
+---------------------------------------------------------------------------------------->
+
+
+

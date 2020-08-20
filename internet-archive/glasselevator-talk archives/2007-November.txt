@@ -1,0 +1,363 @@
+From all4god at web.de  Mon Nov 12 08:23:59 2007
+From: all4god at web.de (all4god)
+Date: Mon, 12 Nov 2007 14:23:59 +0100
+Subject: [ge-talk] Multimonitor support
+Message-ID: <473853EF.1060909@web.de>
+
+Cause i was upset how the new Leopard handles multimonitor (out of the 
+box), i thought about a better way for haiku.
+I think it would be intuitiv, if you can choose a Workspace to be 
+rendert to a extarnal Monitor.
+e.g. by default Workspace 2 is shown on the first external Monitor, 
+Workspace 3 on the second and so on.
+I think this is how the user would expect it.
+
+
+Switiching the workspaces will only work on the "first" the main Monitor.
+So if the main Monitor shows Workspace 1 the hole System works kind of 
+an expanded Desktop. If the User switch to Workspace 2 it works like a 
+mirrored Deskop.
+
+I guess this will be hard to implement.. but i think it will be such a 
+pleasure.
+
+There must be some aditional settings, eg. if you wanne show the Deskbar 
+on the external Monitor and also to set the main Monitor.
+
+For the Mediaplayer it would be intuitiv, that it start Video on the 
+exteranal Monitor, if one is connected. (beacuse normally this means 
+someone attached a better Monitor.. and want to look on this Monitor 
+videos (like beamer or so.)) The Controlpanel still can sit on the Main 
+Monitor.
+
+This are just my ideas, i am not so shure if someone already had made 
+this suggestions...
+Sorry for my bad english :)
+
+Gby
+Paradoxon
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	all4god at web.de
+
+www.online-mit-gott.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+
+From ian.nowland at gmail.com  Mon Nov 12 09:09:52 2007
+From: ian.nowland at gmail.com (Ian Nowland)
+Date: Mon, 12 Nov 2007 09:09:52 -0500
+Subject: [ge-talk] Multimonitor support
+In-Reply-To: <473853EF.1060909@web.de>
+References: <473853EF.1060909@web.de>
+Message-ID: <b6cea0da0711120609s26c198ads4c26695cc3367489@mail.gmail.com>
+
+I actually love the way leopard handles multiple monitors with workspaces.
+
+I would appreciate if I could easily send applications to other spaces, though.
+
+--Ian
+
+On Nov 12, 2007 8:23 AM, all4god <all4god at web.de> wrote:
+> Cause i was upset how the new Leopard handles multimonitor (out of the
+> box), i thought about a better way for haiku.
+> I think it would be intuitiv, if you can choose a Workspace to be
+> rendert to a extarnal Monitor.
+> e.g. by default Workspace 2 is shown on the first external Monitor,
+> Workspace 3 on the second and so on.
+> I think this is how the user would expect it.
+>
+>
+> Switiching the workspaces will only work on the "first" the main Monitor.
+> So if the main Monitor shows Workspace 1 the hole System works kind of
+> an expanded Desktop. If the User switch to Workspace 2 it works like a
+> mirrored Deskop.
+>
+> I guess this will be hard to implement.. but i think it will be such a
+> pleasure.
+>
+> There must be some aditional settings, eg. if you wanne show the Deskbar
+> on the external Monitor and also to set the main Monitor.
+>
+> For the Mediaplayer it would be intuitiv, that it start Video on the
+> exteranal Monitor, if one is connected. (beacuse normally this means
+> someone attached a better Monitor.. and want to look on this Monitor
+> videos (like beamer or so.)) The Controlpanel still can sit on the Main
+> Monitor.
+>
+> This are just my ideas, i am not so shure if someone already had made
+> this suggestions...
+> Sorry for my bad english :)
+>
+> Gby
+> Paradoxon
+>
+>
+> --
+> Matthias Lindner
+> Lazarettstr. 10
+>
+> 45127 Essen
+>
+> Tel/Fax.: 0201-2480986
+> Mail:   all4god at web.de
+>
+> www.online-mit-gott.de
+> www.fishers-girl.de
+> www.projectconceptor.de
+>
+> _______________________________________________
+> glasselevator-talk mailing list
+> glasselevator-talk at bug-br.org.br
+> http://www.bug-br.org.br/mailman/listinfo/glasselevator-talk
+>
+
+From all4god at web.de  Mon Nov 12 10:20:30 2007
+From: all4god at web.de (all4god)
+Date: Mon, 12 Nov 2007 16:20:30 +0100
+Subject: [ge-talk] Multimonitor support
+In-Reply-To: <b6cea0da0711120609s26c198ads4c26695cc3367489@mail.gmail.com>
+References: <473853EF.1060909@web.de>
+	<b6cea0da0711120609s26c198ads4c26695cc3367489@mail.gmail.com>
+Message-ID: <47386F3E.90205@web.de>
+
+Leopard  wasnt my point :) it was just the trigger. And the workspaces 
+worke like Haiku. Grab a Window and change to the workspace where it 
+should go :) and then realeas the Window.
+
+What i didnt loved was that Leopard cloned/mirrored my Screen to the 
+external VideoBeamer with full resolution 1440 x 900 wich my Beamer 
+really dont support.
+This  is for me  an really "unitelligent" solution. And i also dont want 
+to show my Desktop to people in a Meeting.
+
+And also if you have some "virtual Screens" -> Workspaces, it seems to 
+me, That the average User the first thing   that they can make a "real" 
+screen out of it, if they attach a real Screen to the Monitor..
+
+
+
+Ian Nowland schrieb:
+> I actually love the way leopard handles multiple monitors with workspaces.
+>
+> I would appreciate if I could easily send applications to other spaces, though.
+>
+> --Ian
+>
+> On Nov 12, 2007 8:23 AM, all4god <all4god at web.de> wrote:
+>   
+>> Cause i was upset how the new Leopard handles multimonitor (out of the
+>> box), i thought about a better way for haiku.
+>> I think it would be intuitiv, if you can choose a Workspace to be
+>> rendert to a extarnal Monitor.
+>> e.g. by default Workspace 2 is shown on the first external Monitor,
+>> Workspace 3 on the second and so on.
+>> I think this is how the user would expect it.
+>>
+>>
+>> Switiching the workspaces will only work on the "first" the main Monitor.
+>> So if the main Monitor shows Workspace 1 the hole System works kind of
+>> an expanded Desktop. If the User switch to Workspace 2 it works like a
+>> mirrored Deskop.
+>>
+>> I guess this will be hard to implement.. but i think it will be such a
+>> pleasure.
+>>
+>> There must be some aditional settings, eg. if you wanne show the Deskbar
+>> on the external Monitor and also to set the main Monitor.
+>>
+>> For the Mediaplayer it would be intuitiv, that it start Video on the
+>> exteranal Monitor, if one is connected. (beacuse normally this means
+>> someone attached a better Monitor.. and want to look on this Monitor
+>> videos (like beamer or so.)) The Controlpanel still can sit on the Main
+>> Monitor.
+>>
+>> This are just my ideas, i am not so shure if someone already had made
+>> this suggestions...
+>> Sorry for my bad english :)
+>>
+>> Gby
+>> Paradoxon
+>>
+>>
+>> --
+>> Matthias Lindner
+>> Lazarettstr. 10
+>>
+>> 45127 Essen
+>>
+>> Tel/Fax.: 0201-2480986
+>> Mail:   all4god at web.de
+>>
+>> www.online-mit-gott.de
+>> www.fishers-girl.de
+>> www.projectconceptor.de
+>>
+>> _______________________________________________
+>> glasselevator-talk mailing list
+>> glasselevator-talk at bug-br.org.br
+>> http://www.bug-br.org.br/mailman/listinfo/glasselevator-talk
+>>
+>>     
+> _______________________________________________
+> glasselevator-talk mailing list
+> glasselevator-talk at bug-br.org.br
+> http://www.bug-br.org.br/mailman/listinfo/glasselevator-talk
+>
+>   
+
+
+-- 
+Matthias Lindner
+Lazarettstr. 10
+
+45127 Essen
+
+Tel/Fax.: 0201-2480986
+Mail:	all4god at web.de
+
+www.online-mit-gott.de
+www.fishers-girl.de
+www.projectconceptor.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://www.bug-br.org.br/pipermail/glasselevator-talk/attachments/20071112/8cae5344/attachment.html 
+
+From axeld at pinc-software.de  Mon Nov 12 13:16:53 2007
+From: axeld at pinc-software.de (Axel =?iso-8859-15?q?D=F6rfler?=)
+Date: Mon, 12 Nov 2007 19:16:53 +0100
+Subject: [ge-talk] Multimonitor support
+In-Reply-To: <473853EF.1060909@web.de>
+Message-ID: <7560119016-BeMail@ibm>
+
+all4god <all4god at web.de> wrote:
+> Switiching the workspaces will only work on the "first" the main 
+> Monitor.
+> So if the main Monitor shows Workspace 1 the hole System works kind 
+> of 
+> an expanded Desktop. If the User switch to Workspace 2 it works like 
+> a 
+> mirrored Deskop.
+
+You are actually misinterpreting what a Workspace is about - it's your 
+complete working environment, and that always spans over all monitors 
+attached to the system.
+Of course, it doesn't have to be a clone by default (but you can easily 
+switch that in Mac OS, too).
+
+Bye,
+   Axel.
+
+
+From all4god at web.de  Mon Nov 12 13:51:47 2007
+From: all4god at web.de (all4god)
+Date: Mon, 12 Nov 2007 19:51:47 +0100
+Subject: [ge-talk] Multimonitor support
+In-Reply-To: <7560119016-BeMail@ibm>
+References: <7560119016-BeMail@ibm>
+Message-ID: <4738A0C3.6050807@web.de>
+
+Axel D?rfler schrieb:
+> all4god <all4god at web.de> wrote:
+>   
+>> Switiching the workspaces will only work on the "first" the main 
+>> Monitor.
+>> So if the main Monitor shows Workspace 1 the hole System works kind 
+>> of 
+>> an expanded Desktop. If the User switch to Workspace 2 it works like 
+>> a 
+>> mirrored Deskop.
+>>     
+>
+> You are actually misinterpreting what a Workspace is about - it's your 
+> complete working environment, and that always spans over all monitors 
+> attached to the system.
+> Of course, it doesn't have to be a clone by default (but you can easily 
+> switch that in Mac OS, too).
+>
+> Bye,
+>    Axel.
+>
+> _______________________________________________
+> glasselevator-talk mailing list
+> glasselevator-talk at bug-br.org.br
+> http://www.bug-br.org.br/mailman/listinfo/glasselevator-talk
+>
+>   
+I think/hope i dont  misinterpret what workspaces are about, i used them 
+extensive
+on BeOS and Linux.
+
+But i think we have an "System-side" view but not the "user-side" one.
+
+So why not expand this common konzept. (being innovative :-D)
+I think this could be the easier way for the user to set up their 
+external Monitors.
+
+For me, as i used to multimedia stuff (rundumvideo and so on :))
+it would helped me so much, if i could have such a system...
+eg.: Running my presentation on a external Monitor wich "acts" like a 
+workspace
+ and switch to "clone" mode with simply changing the workspace on my 
+main Monitor, without affecting the Presentation.
+Or even better...running 4 different Videos on four different Screens by 
+simply draggin them to workspace 2,3,4,5 :)
+
+just thoughts :) in verry bad english :)
+
+gby
+Paradoxon
+
+
+I am also aware that i can change the setting :-D in Mac OSX :).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://www.bug-br.org.br/pipermail/glasselevator-talk/attachments/20071112/63d47152/attachment.html 
+
+From axeld at pinc-software.de  Mon Nov 12 15:06:47 2007
+From: axeld at pinc-software.de (Axel =?iso-8859-15?q?D=F6rfler?=)
+Date: Mon, 12 Nov 2007 21:06:47 +0100
+Subject: [ge-talk] Multimonitor support
+In-Reply-To: <4738A0C3.6050807@web.de>
+Message-ID: <14154687733-BeMail@ibm>
+
+all4god <all4god at web.de> wrote:
+> For me, as i used to multimedia stuff (rundumvideo and so on :))
+> it would helped me so much, if i could have such a system...
+> eg.: Running my presentation on a external Monitor wich "acts" like a 
+> workspace
+>  and switch to "clone" mode with simply changing the workspace on my 
+> main Monitor, without affecting the Presentation.
+
+Not sure if I understand you correctly (and it's not a language issue :
+-)).
+If you want to switch the presentation to be a clone of another screen 
+by switching the workspace, then that is exactly what this definition 
+allows you to do.
+If you want to say "leave this monitor to workspace 2 no matter what I 
+do" then this is not possible, even though I can imagine it being 
+useful. But it could be solved to temporarily override the workspace 
+settings for that monitor, and have the window shown on all workspaces 
+- at least I can imagine that we might want to implement that feature.
+
+> Or even better...running 4 different Videos on four different Screens 
+> by 
+> simply draggin them to workspace 2,3,4,5 :)
+
+There would be no difference to letting them run on a single workspace, 
+just on different screens.
+
+Bye,
+   Axel.
+
+
+
